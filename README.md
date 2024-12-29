@@ -1,8 +1,7 @@
-E-commerce Report
-This report provides a comprehensive overview of sales performance across different dimensions.
+E-commerce Report: This report provides a comprehensive overview of sales performance across different dimensions.
 
 Data Sources:
-ECOMM DATA.xlsx:This Excel sheet provides the raw data for the e-commerce report. It contains information on sales,     profit, quantity, shipping costs, product categories, markets, countries, states, and shipping modes.
+ECOMM DATA.xlsx: This Excel sheet provides the raw data for the e-commerce report. It contains information on sales,     profit, quantity, shipping costs, product categories, markets, countries, states, and shipping modes.
 
 Visualizations:
 Sales by Category: A bar chart showing the total sales for each product category (Technology, Furniture, Office Supplies).
